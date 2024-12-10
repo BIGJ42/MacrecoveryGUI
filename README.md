@@ -1,6 +1,6 @@
 # Mac Recovery Image Downloader (Unofficial)
 
-This Python script, with a Tkinter GUI, attempts to download macOS recovery images and chunklists.  **It is unofficial and relies on reverse-engineered techniques, which are inherently fragile and may break at any time due to changes in Apple's servers.**  Use at your own risk and always respect Apple's terms of service.  This tool is provided as-is with no warranty.
+As the name may suggest, this is a version of opencorePKG's Macrecovery program, but with a GUI so make things easier.
 
 
 ## Disclaimer
